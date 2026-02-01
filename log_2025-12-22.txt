@@ -1,0 +1,770 @@
+[2025-12-22 00:11:46] Inserted Row (single):
+    machine_id: 
+    u_id: as
+    user_id: 54323
+    test_code: 10013
+    acquired_by: Md. Golam Mostafa
+    sample_name_header: Ketorolac
+    sample_id: AS_AL_1498_A_01
+    tray: 1
+    vial: 4
+    injection_volume: 100.0
+    data_file: AS_AL_1498_A_01.lcd
+    method_file: PRM_Ketorolac Tromethamine AS.lcm
+    batch_file: PRB_AS_Ketorolac Tromethamine.lcb
+    report_format_file: DEFAULT.lsr
+    date_acquired: 8/26/2025 10:08:13 PM
+    date_processed: 8/27/2025 10:59:22 AM
+    title: AS AL 1498 A 02.lcd
+    sample_name: Ketorolac
+    sample_id_ind: AL 1498 A
+    ret_time: 10.417
+    area: 1962558.0
+    tailing_factor: 1.955
+    theoretical_plate: 1564.0
+
+[2025-12-22 00:11:46] Inserted Row (single):
+    machine_id: 
+    u_id: as
+    user_id: 54323
+    test_code: 10013
+    acquired_by: Md. Golam Mostafa
+    sample_name_header: Ketorolac
+    sample_id: AS_AL_1498_A_01
+    tray: 1
+    vial: 4
+    injection_volume: 100.0
+    data_file: AS_AL_1498_A_01.lcd
+    method_file: PRM_Ketorolac Tromethamine AS.lcm
+    batch_file: PRB_AS_Ketorolac Tromethamine.lcb
+    report_format_file: DEFAULT.lsr
+    date_acquired: 8/26/2025 10:08:13 PM
+    date_processed: 8/27/2025 10:59:22 AM
+    title: AS AL 1498 A 01.lcd
+    sample_name: Ketorolac
+    sample_id_ind: AL 1498 A
+    ret_time: 10.437
+    area: 1964221.0
+    tailing_factor: 1.94
+    theoretical_plate: 1547.0
+
+[2025-12-22 00:11:46] Inserted Row (single):
+    machine_id: 
+    u_id: as
+    user_id: 54323
+    test_code: 10013
+    acquired_by: Md. Golam Mostafa
+    sample_name_header: Ketorolac
+    sample_id: AS_AL_1498_A_01
+    tray: 1
+    vial: 4
+    injection_volume: 100.0
+    data_file: AS_AL_1498_A_01.lcd
+    method_file: PRM_Ketorolac Tromethamine AS.lcm
+    batch_file: PRB_AS_Ketorolac Tromethamine.lcb
+    report_format_file: DEFAULT.lsr
+    date_acquired: 8/26/2025 10:08:13 PM
+    date_processed: 8/27/2025 10:59:22 AM
+    title: Average
+    sample_name: None
+    sample_id_ind: None
+    ret_time: 10.427
+    area: 1963390.0
+    tailing_factor: 1.947
+    theoretical_plate: 1555.0
+
+[2025-12-22 00:11:46] Inserted Row (single):
+    machine_id: 
+    u_id: as
+    user_id: 54323
+    test_code: 10013
+    acquired_by: Md. Golam Mostafa
+    sample_name_header: Ketorolac
+    sample_id: AS_AL_1498_A_01
+    tray: 1
+    vial: 4
+    injection_volume: 100.0
+    data_file: AS_AL_1498_A_01.lcd
+    method_file: PRM_Ketorolac Tromethamine AS.lcm
+    batch_file: PRB_AS_Ketorolac Tromethamine.lcb
+    report_format_file: DEFAULT.lsr
+    date_acquired: 8/26/2025 10:08:13 PM
+    date_processed: 8/27/2025 10:59:22 AM
+    title: %RSD
+    sample_name: None
+    sample_id_ind: None
+    ret_time: 0.135
+    area: 0.06
+    tailing_factor: 0.539
+    theoretical_plate: 0.746
+
+[2025-12-22 00:11:46] Inserted Row (single):
+    machine_id: 
+    u_id: as
+    user_id: 54323
+    test_code: 10013
+    acquired_by: Md. Golam Mostafa
+    sample_name_header: Ketorolac
+    sample_id: AS_AL_1498_A_01
+    tray: 1
+    vial: 4
+    injection_volume: 100.0
+    data_file: AS_AL_1498_A_01.lcd
+    method_file: PRM_Ketorolac Tromethamine AS.lcm
+    batch_file: PRB_AS_Ketorolac Tromethamine.lcb
+    report_format_file: DEFAULT.lsr
+    date_acquired: 8/26/2025 10:08:13 PM
+    date_processed: 8/27/2025 10:59:22 AM
+    title: Standard Deviation
+    sample_name: None
+    sample_id_ind: None
+    ret_time: 0.014
+    area: 1176.0
+    tailing_factor: 0.01
+    theoretical_plate: 12.0
+
+[2025-12-22 00:12:39] Inserted Row (multi):
+    machine_id: 
+    u_id: as
+    user_id: 54323
+    test_code: 10013
+    acquired_by: Sanchita Barua
+    sample_name_header: Clobetasol Propionate
+    sample_id: AS_INN_0362_A01
+    tray: 1
+    vial: 10
+    injection_volume: 10.0
+    data_file: AS_INN_0362_A01.lcd
+    method_file: Clobetasol Propionate_AS.lcm
+    batch_file: PRB_SS.lcb
+    report_format_file: DEFAULT.lsr
+    date_acquired: 10/15/2025 11:20:02 PM
+    date_processed: 10/16/2025 12:01:17 PM
+    compound_name: Ofloxacin
+    title: AS INN 0362 A01.lcd
+    sample_name: betasol Propion
+    sample_id_ind: S INN 0362 A
+    ret_time: 5.603
+    area: 828440.0
+    tailing_factor: 1.075
+    theoretical_plate: 7857.0
+
+[2025-12-22 00:12:39] Inserted Row (multi):
+    machine_id: 
+    u_id: as
+    user_id: 54323
+    test_code: 10013
+    acquired_by: Sanchita Barua
+    sample_name_header: Clobetasol Propionate
+    sample_id: AS_INN_0362_A01
+    tray: 1
+    vial: 10
+    injection_volume: 10.0
+    data_file: AS_INN_0362_A01.lcd
+    method_file: Clobetasol Propionate_AS.lcm
+    batch_file: PRB_SS.lcb
+    report_format_file: DEFAULT.lsr
+    date_acquired: 10/15/2025 11:20:02 PM
+    date_processed: 10/16/2025 12:01:17 PM
+    compound_name: Ofloxacin
+    title: AS INN 0362 A02.lcd
+    sample_name: betasol Propion
+    sample_id_ind: S INN 0362 A
+    ret_time: 5.6
+    area: 825315.0
+    tailing_factor: 1.072
+    theoretical_plate: 7920.0
+
+[2025-12-22 00:12:39] Inserted Row (multi):
+    machine_id: 
+    u_id: as
+    user_id: 54323
+    test_code: 10013
+    acquired_by: Sanchita Barua
+    sample_name_header: Clobetasol Propionate
+    sample_id: AS_INN_0362_A01
+    tray: 1
+    vial: 10
+    injection_volume: 10.0
+    data_file: AS_INN_0362_A01.lcd
+    method_file: Clobetasol Propionate_AS.lcm
+    batch_file: PRB_SS.lcb
+    report_format_file: DEFAULT.lsr
+    date_acquired: 10/15/2025 11:20:02 PM
+    date_processed: 10/16/2025 12:01:17 PM
+    compound_name: Ofloxacin
+    title: Average
+    sample_name: None
+    sample_id_ind: None
+    ret_time: 5.602
+    area: 826877.0
+    tailing_factor: 1.073
+    theoretical_plate: 7888.0
+
+[2025-12-22 00:12:39] Inserted Row (multi):
+    machine_id: 
+    u_id: as
+    user_id: 54323
+    test_code: 10013
+    acquired_by: Sanchita Barua
+    sample_name_header: Clobetasol Propionate
+    sample_id: AS_INN_0362_A01
+    tray: 1
+    vial: 10
+    injection_volume: 10.0
+    data_file: AS_INN_0362_A01.lcd
+    method_file: Clobetasol Propionate_AS.lcm
+    batch_file: PRB_SS.lcb
+    report_format_file: DEFAULT.lsr
+    date_acquired: 10/15/2025 11:20:02 PM
+    date_processed: 10/16/2025 12:01:17 PM
+    compound_name: Ofloxacin
+    title: %RSD
+    sample_name: None
+    sample_id_ind: None
+    ret_time: 0.044
+    area: 0.267
+    tailing_factor: 0.2
+    theoretical_plate: 0.567
+
+[2025-12-22 00:12:39] Inserted Row (multi):
+    machine_id: 
+    u_id: as
+    user_id: 54323
+    test_code: 10013
+    acquired_by: Sanchita Barua
+    sample_name_header: Clobetasol Propionate
+    sample_id: AS_INN_0362_A01
+    tray: 1
+    vial: 10
+    injection_volume: 10.0
+    data_file: AS_INN_0362_A01.lcd
+    method_file: Clobetasol Propionate_AS.lcm
+    batch_file: PRB_SS.lcb
+    report_format_file: DEFAULT.lsr
+    date_acquired: 10/15/2025 11:20:02 PM
+    date_processed: 10/16/2025 12:01:17 PM
+    compound_name: Ofloxacin
+    title: Standard Deviation
+    sample_name: None
+    sample_id_ind: None
+    ret_time: 0.002
+    area: 2210.0
+    tailing_factor: 0.002
+    theoretical_plate: 45.0
+
+[2025-12-22 00:12:39] Inserted Row (multi):
+    machine_id: 
+    u_id: as
+    user_id: 54323
+    test_code: 10013
+    acquired_by: Sanchita Barua
+    sample_name_header: Clobetasol Propionate
+    sample_id: AS_INN_0362_A01
+    tray: 1
+    vial: 10
+    injection_volume: 10.0
+    data_file: AS_INN_0362_A01.lcd
+    method_file: Clobetasol Propionate_AS.lcm
+    batch_file: PRB_SS.lcb
+    report_format_file: DEFAULT.lsr
+    date_acquired: 10/15/2025 11:20:02 PM
+    date_processed: 10/16/2025 12:01:17 PM
+    compound_name: Ornidazole
+    title: AS INN 0362 A01.lcd
+    sample_name: betasol Propion
+    sample_id_ind: S INN 0362 A
+    ret_time: 8.494
+    area: 1227127.0
+    tailing_factor: 0.97
+    theoretical_plate: 10357.0
+
+[2025-12-22 00:12:39] Inserted Row (multi):
+    machine_id: 
+    u_id: as
+    user_id: 54323
+    test_code: 10013
+    acquired_by: Sanchita Barua
+    sample_name_header: Clobetasol Propionate
+    sample_id: AS_INN_0362_A01
+    tray: 1
+    vial: 10
+    injection_volume: 10.0
+    data_file: AS_INN_0362_A01.lcd
+    method_file: Clobetasol Propionate_AS.lcm
+    batch_file: PRB_SS.lcb
+    report_format_file: DEFAULT.lsr
+    date_acquired: 10/15/2025 11:20:02 PM
+    date_processed: 10/16/2025 12:01:17 PM
+    compound_name: Ornidazole
+    title: AS INN 0362 A02.lcd
+    sample_name: betasol Propion
+    sample_id_ind: S INN 0362 A
+    ret_time: 8.493
+    area: 1227868.0
+    tailing_factor: 0.969
+    theoretical_plate: 10391.0
+
+[2025-12-22 00:12:39] Inserted Row (multi):
+    machine_id: 
+    u_id: as
+    user_id: 54323
+    test_code: 10013
+    acquired_by: Sanchita Barua
+    sample_name_header: Clobetasol Propionate
+    sample_id: AS_INN_0362_A01
+    tray: 1
+    vial: 10
+    injection_volume: 10.0
+    data_file: AS_INN_0362_A01.lcd
+    method_file: Clobetasol Propionate_AS.lcm
+    batch_file: PRB_SS.lcb
+    report_format_file: DEFAULT.lsr
+    date_acquired: 10/15/2025 11:20:02 PM
+    date_processed: 10/16/2025 12:01:17 PM
+    compound_name: Ornidazole
+    title: Average
+    sample_name: None
+    sample_id_ind: None
+    ret_time: 8.494
+    area: 1227498.0
+    tailing_factor: 0.97
+    theoretical_plate: 10374.0
+
+[2025-12-22 00:12:39] Inserted Row (multi):
+    machine_id: 
+    u_id: as
+    user_id: 54323
+    test_code: 10013
+    acquired_by: Sanchita Barua
+    sample_name_header: Clobetasol Propionate
+    sample_id: AS_INN_0362_A01
+    tray: 1
+    vial: 10
+    injection_volume: 10.0
+    data_file: AS_INN_0362_A01.lcd
+    method_file: Clobetasol Propionate_AS.lcm
+    batch_file: PRB_SS.lcb
+    report_format_file: DEFAULT.lsr
+    date_acquired: 10/15/2025 11:20:02 PM
+    date_processed: 10/16/2025 12:01:17 PM
+    compound_name: Ornidazole
+    title: %RSD
+    sample_name: None
+    sample_id_ind: None
+    ret_time: 0.008
+    area: 0.043
+    tailing_factor: 0.018
+    theoretical_plate: 0.232
+
+[2025-12-22 00:12:39] Inserted Row (multi):
+    machine_id: 
+    u_id: as
+    user_id: 54323
+    test_code: 10013
+    acquired_by: Sanchita Barua
+    sample_name_header: Clobetasol Propionate
+    sample_id: AS_INN_0362_A01
+    tray: 1
+    vial: 10
+    injection_volume: 10.0
+    data_file: AS_INN_0362_A01.lcd
+    method_file: Clobetasol Propionate_AS.lcm
+    batch_file: PRB_SS.lcb
+    report_format_file: DEFAULT.lsr
+    date_acquired: 10/15/2025 11:20:02 PM
+    date_processed: 10/16/2025 12:01:17 PM
+    compound_name: Ornidazole
+    title: Standard Deviation
+    sample_name: None
+    sample_id_ind: None
+    ret_time: 0.001
+    area: 524.0
+    tailing_factor: None
+    theoretical_plate: 24.0
+
+[2025-12-22 00:12:39] Inserted Row (multi):
+    machine_id: 
+    u_id: as
+    user_id: 54323
+    test_code: 10013
+    acquired_by: Sanchita Barua
+    sample_name_header: Clobetasol Propionate
+    sample_id: AS_INN_0362_A01
+    tray: 1
+    vial: 10
+    injection_volume: 10.0
+    data_file: AS_INN_0362_A01.lcd
+    method_file: Clobetasol Propionate_AS.lcm
+    batch_file: PRB_SS.lcb
+    report_format_file: DEFAULT.lsr
+    date_acquired: 10/15/2025 11:20:02 PM
+    date_processed: 10/16/2025 12:01:17 PM
+    compound_name: Terbinafin HCL
+    title: AS INN 0362 A01.lcd
+    sample_name: betasol Propion
+    sample_id_ind: S INN 0362 A
+    ret_time: 18.205
+    area: 1977305.0
+    tailing_factor: 1.115
+    theoretical_plate: 106954.0
+
+[2025-12-22 00:12:39] Inserted Row (multi):
+    machine_id: 
+    u_id: as
+    user_id: 54323
+    test_code: 10013
+    acquired_by: Sanchita Barua
+    sample_name_header: Clobetasol Propionate
+    sample_id: AS_INN_0362_A01
+    tray: 1
+    vial: 10
+    injection_volume: 10.0
+    data_file: AS_INN_0362_A01.lcd
+    method_file: Clobetasol Propionate_AS.lcm
+    batch_file: PRB_SS.lcb
+    report_format_file: DEFAULT.lsr
+    date_acquired: 10/15/2025 11:20:02 PM
+    date_processed: 10/16/2025 12:01:17 PM
+    compound_name: Terbinafin HCL
+    title: AS INN 0362 A02.lcd
+    sample_name: betasol Propion
+    sample_id_ind: S INN 0362 A
+    ret_time: 18.201
+    area: 1978941.0
+    tailing_factor: 1.111
+    theoretical_plate: 106553.0
+
+[2025-12-22 00:12:39] Inserted Row (multi):
+    machine_id: 
+    u_id: as
+    user_id: 54323
+    test_code: 10013
+    acquired_by: Sanchita Barua
+    sample_name_header: Clobetasol Propionate
+    sample_id: AS_INN_0362_A01
+    tray: 1
+    vial: 10
+    injection_volume: 10.0
+    data_file: AS_INN_0362_A01.lcd
+    method_file: Clobetasol Propionate_AS.lcm
+    batch_file: PRB_SS.lcb
+    report_format_file: DEFAULT.lsr
+    date_acquired: 10/15/2025 11:20:02 PM
+    date_processed: 10/16/2025 12:01:17 PM
+    compound_name: Terbinafin HCL
+    title: Average
+    sample_name: None
+    sample_id_ind: None
+    ret_time: 18.203
+    area: 1978123.0
+    tailing_factor: 1.113
+    theoretical_plate: 106753.0
+
+[2025-12-22 00:12:39] Inserted Row (multi):
+    machine_id: 
+    u_id: as
+    user_id: 54323
+    test_code: 10013
+    acquired_by: Sanchita Barua
+    sample_name_header: Clobetasol Propionate
+    sample_id: AS_INN_0362_A01
+    tray: 1
+    vial: 10
+    injection_volume: 10.0
+    data_file: AS_INN_0362_A01.lcd
+    method_file: Clobetasol Propionate_AS.lcm
+    batch_file: PRB_SS.lcb
+    report_format_file: DEFAULT.lsr
+    date_acquired: 10/15/2025 11:20:02 PM
+    date_processed: 10/16/2025 12:01:17 PM
+    compound_name: Terbinafin HCL
+    title: %RSD
+    sample_name: None
+    sample_id_ind: None
+    ret_time: 0.016
+    area: 0.058
+    tailing_factor: 0.23
+    theoretical_plate: 0.265
+
+[2025-12-22 00:12:39] Inserted Row (multi):
+    machine_id: 
+    u_id: as
+    user_id: 54323
+    test_code: 10013
+    acquired_by: Sanchita Barua
+    sample_name_header: Clobetasol Propionate
+    sample_id: AS_INN_0362_A01
+    tray: 1
+    vial: 10
+    injection_volume: 10.0
+    data_file: AS_INN_0362_A01.lcd
+    method_file: Clobetasol Propionate_AS.lcm
+    batch_file: PRB_SS.lcb
+    report_format_file: DEFAULT.lsr
+    date_acquired: 10/15/2025 11:20:02 PM
+    date_processed: 10/16/2025 12:01:17 PM
+    compound_name: Terbinafin HCL
+    title: Standard Deviation
+    sample_name: None
+    sample_id_ind: None
+    ret_time: 0.003
+    area: 1157.0
+    tailing_factor: 0.003
+    theoretical_plate: 283.0
+
+[2025-12-22 00:12:39] Inserted Row (multi):
+    machine_id: 
+    u_id: as
+    user_id: 54323
+    test_code: 10013
+    acquired_by: Sanchita Barua
+    sample_name_header: Clobetasol Propionate
+    sample_id: AS_INN_0362_A01
+    tray: 1
+    vial: 10
+    injection_volume: 10.0
+    data_file: AS_INN_0362_A01.lcd
+    method_file: Clobetasol Propionate_AS.lcm
+    batch_file: PRB_SS.lcb
+    report_format_file: DEFAULT.lsr
+    date_acquired: 10/15/2025 11:20:02 PM
+    date_processed: 10/16/2025 12:01:17 PM
+    compound_name: Clobetasole Propionate
+    title: AS INN 0362 A01.lcd
+    sample_name: betasol Propion
+    sample_id_ind: S INN 0362 A
+    ret_time: 29.337
+    area: 68304.0
+    tailing_factor: 0.991
+    theoretical_plate: 48121.0
+
+[2025-12-22 00:12:39] Inserted Row (multi):
+    machine_id: 
+    u_id: as
+    user_id: 54323
+    test_code: 10013
+    acquired_by: Sanchita Barua
+    sample_name_header: Clobetasol Propionate
+    sample_id: AS_INN_0362_A01
+    tray: 1
+    vial: 10
+    injection_volume: 10.0
+    data_file: AS_INN_0362_A01.lcd
+    method_file: Clobetasol Propionate_AS.lcm
+    batch_file: PRB_SS.lcb
+    report_format_file: DEFAULT.lsr
+    date_acquired: 10/15/2025 11:20:02 PM
+    date_processed: 10/16/2025 12:01:17 PM
+    compound_name: Clobetasole Propionate
+    title: AS INN 0362 A02.lcd
+    sample_name: betasol Propion
+    sample_id_ind: S INN 0362 A
+    ret_time: 29.338
+    area: 68371.0
+    tailing_factor: 0.992
+    theoretical_plate: 47969.0
+
+[2025-12-22 00:12:39] Inserted Row (multi):
+    machine_id: 
+    u_id: as
+    user_id: 54323
+    test_code: 10013
+    acquired_by: Sanchita Barua
+    sample_name_header: Clobetasol Propionate
+    sample_id: AS_INN_0362_A01
+    tray: 1
+    vial: 10
+    injection_volume: 10.0
+    data_file: AS_INN_0362_A01.lcd
+    method_file: Clobetasol Propionate_AS.lcm
+    batch_file: PRB_SS.lcb
+    report_format_file: DEFAULT.lsr
+    date_acquired: 10/15/2025 11:20:02 PM
+    date_processed: 10/16/2025 12:01:17 PM
+    compound_name: Clobetasole Propionate
+    title: Average
+    sample_name: None
+    sample_id_ind: None
+    ret_time: 29.337
+    area: 68338.0
+    tailing_factor: 0.991
+    theoretical_plate: 48045.0
+
+[2025-12-22 00:12:39] Inserted Row (multi):
+    machine_id: 
+    u_id: as
+    user_id: 54323
+    test_code: 10013
+    acquired_by: Sanchita Barua
+    sample_name_header: Clobetasol Propionate
+    sample_id: AS_INN_0362_A01
+    tray: 1
+    vial: 10
+    injection_volume: 10.0
+    data_file: AS_INN_0362_A01.lcd
+    method_file: Clobetasol Propionate_AS.lcm
+    batch_file: PRB_SS.lcb
+    report_format_file: DEFAULT.lsr
+    date_acquired: 10/15/2025 11:20:02 PM
+    date_processed: 10/16/2025 12:01:17 PM
+    compound_name: Clobetasole Propionate
+    title: %RSD
+    sample_name: None
+    sample_id_ind: None
+    ret_time: 0.001
+    area: 0.069
+    tailing_factor: 0.078
+    theoretical_plate: 0.223
+
+[2025-12-22 00:12:39] Inserted Row (multi):
+    machine_id: 
+    u_id: as
+    user_id: 54323
+    test_code: 10013
+    acquired_by: Sanchita Barua
+    sample_name_header: Clobetasol Propionate
+    sample_id: AS_INN_0362_A01
+    tray: 1
+    vial: 10
+    injection_volume: 10.0
+    data_file: AS_INN_0362_A01.lcd
+    method_file: Clobetasol Propionate_AS.lcm
+    batch_file: PRB_SS.lcb
+    report_format_file: DEFAULT.lsr
+    date_acquired: 10/15/2025 11:20:02 PM
+    date_processed: 10/16/2025 12:01:17 PM
+    compound_name: Clobetasole Propionate
+    title: Standard Deviation
+    sample_name: None
+    sample_id_ind: None
+    ret_time: 0.0
+    area: 47.0
+    tailing_factor: 0.001
+    theoretical_plate: 107.0
+
+[2025-12-22 12:01:24] Inserted Row (single):
+    machine_id: 
+    u_id: sample
+    user_id: 88888
+    test_code: 10013
+    acquired_by: Md. Golam Mostafa
+    sample_name_header: Ketorolac
+    sample_id: AS_AL_1498_A_01
+    tray: 1
+    vial: 4
+    injection_volume: 100.0
+    data_file: AS_AL_1498_A_01.lcd
+    method_file: PRM_Ketorolac Tromethamine AS.lcm
+    batch_file: PRB_AS_Ketorolac Tromethamine.lcb
+    report_format_file: DEFAULT.lsr
+    date_acquired: 8/26/2025 10:08:13 PM
+    date_processed: 8/27/2025 10:59:22 AM
+    title: AS AL 1498 A 02.lcd
+    sample_name: Ketorolac
+    sample_id_ind: AL 1498 A
+    ret_time: 10.417
+    area: 1962558.0
+    tailing_factor: 1.955
+    theoretical_plate: 1564.0
+
+[2025-12-22 12:01:25] Inserted Row (single):
+    machine_id: 
+    u_id: sample
+    user_id: 88888
+    test_code: 10013
+    acquired_by: Md. Golam Mostafa
+    sample_name_header: Ketorolac
+    sample_id: AS_AL_1498_A_01
+    tray: 1
+    vial: 4
+    injection_volume: 100.0
+    data_file: AS_AL_1498_A_01.lcd
+    method_file: PRM_Ketorolac Tromethamine AS.lcm
+    batch_file: PRB_AS_Ketorolac Tromethamine.lcb
+    report_format_file: DEFAULT.lsr
+    date_acquired: 8/26/2025 10:08:13 PM
+    date_processed: 8/27/2025 10:59:22 AM
+    title: AS AL 1498 A 01.lcd
+    sample_name: Ketorolac
+    sample_id_ind: AL 1498 A
+    ret_time: 10.437
+    area: 1964221.0
+    tailing_factor: 1.94
+    theoretical_plate: 1547.0
+
+[2025-12-22 12:01:25] Inserted Row (single):
+    machine_id: 
+    u_id: sample
+    user_id: 88888
+    test_code: 10013
+    acquired_by: Md. Golam Mostafa
+    sample_name_header: Ketorolac
+    sample_id: AS_AL_1498_A_01
+    tray: 1
+    vial: 4
+    injection_volume: 100.0
+    data_file: AS_AL_1498_A_01.lcd
+    method_file: PRM_Ketorolac Tromethamine AS.lcm
+    batch_file: PRB_AS_Ketorolac Tromethamine.lcb
+    report_format_file: DEFAULT.lsr
+    date_acquired: 8/26/2025 10:08:13 PM
+    date_processed: 8/27/2025 10:59:22 AM
+    title: Average
+    sample_name: None
+    sample_id_ind: None
+    ret_time: 10.427
+    area: 1963390.0
+    tailing_factor: 1.947
+    theoretical_plate: 1555.0
+
+[2025-12-22 12:01:25] Inserted Row (single):
+    machine_id: 
+    u_id: sample
+    user_id: 88888
+    test_code: 10013
+    acquired_by: Md. Golam Mostafa
+    sample_name_header: Ketorolac
+    sample_id: AS_AL_1498_A_01
+    tray: 1
+    vial: 4
+    injection_volume: 100.0
+    data_file: AS_AL_1498_A_01.lcd
+    method_file: PRM_Ketorolac Tromethamine AS.lcm
+    batch_file: PRB_AS_Ketorolac Tromethamine.lcb
+    report_format_file: DEFAULT.lsr
+    date_acquired: 8/26/2025 10:08:13 PM
+    date_processed: 8/27/2025 10:59:22 AM
+    title: %RSD
+    sample_name: None
+    sample_id_ind: None
+    ret_time: 0.135
+    area: 0.06
+    tailing_factor: 0.539
+    theoretical_plate: 0.746
+
+[2025-12-22 12:01:25] Inserted Row (single):
+    machine_id: 
+    u_id: sample
+    user_id: 88888
+    test_code: 10013
+    acquired_by: Md. Golam Mostafa
+    sample_name_header: Ketorolac
+    sample_id: AS_AL_1498_A_01
+    tray: 1
+    vial: 4
+    injection_volume: 100.0
+    data_file: AS_AL_1498_A_01.lcd
+    method_file: PRM_Ketorolac Tromethamine AS.lcm
+    batch_file: PRB_AS_Ketorolac Tromethamine.lcb
+    report_format_file: DEFAULT.lsr
+    date_acquired: 8/26/2025 10:08:13 PM
+    date_processed: 8/27/2025 10:59:22 AM
+    title: Standard Deviation
+    sample_name: None
+    sample_id_ind: None
+    ret_time: 0.014
+    area: 1176.0
+    tailing_factor: 0.01
+    theoretical_plate: 12.0
+

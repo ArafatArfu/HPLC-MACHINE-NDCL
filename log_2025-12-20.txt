@@ -1,0 +1,18 @@
+[2025-12-20 01:31:37] Inserted Row (S: Stage 1):
+    Sample: DS_INN_0426_01, Area: 4338348.0
+[2025-12-20 01:31:37] Inserted Row (S: Stage 1):
+    Sample: DS_INN_0426_01, Area: 4308918.0
+[2025-12-20 01:31:37] Inserted Row (S: Stage 1):
+    Sample: DS_INN_0426_01, Area: 4325408.0
+[2025-12-20 01:31:37] Inserted Row (S: Stage 1):
+    Sample: DS_INN_0426_01, Area: 4303165.0
+[2025-12-20 01:31:37] Inserted Row (S: Stage 1):
+    Sample: DS_INN_0426_01, Area: 4306868.0
+[2025-12-20 01:31:37] Inserted Row (S: Stage 1):
+    Sample: DS_INN_0426_01, Area: 4324661.0
+[2025-12-20 01:31:37] Inserted Row (S: Stage 1):
+    Sample: DS_INN_0426_01, Area: 4317895.0
+[2025-12-20 01:31:37] Inserted Row (S: Stage 1):
+    Sample: DS_INN_0426_01, Area: 0.317
+[2025-12-20 01:31:37] Inserted Row (S: Stage 1):
+    Sample: DS_INN_0426_01, Area: 13709.0

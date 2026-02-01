@@ -1,0 +1,125 @@
+[2025-12-23 13:05:16] Inserted Row (single):
+    machine_id: 
+    u_id: fgs
+    user_id: 4444
+    test_code: 10013
+    acquired_by: Md. Golam Mostafa
+    sample_name_header: Ketorolac
+    sample_id: AS_AL_1498_A_01
+    tray: 1
+    vial: 4
+    injection_volume: 100.0
+    data_file: AS_AL_1498_A_01.lcd
+    method_file: PRM_Ketorolac Tromethamine AS.lcm
+    batch_file: PRB_AS_Ketorolac Tromethamine.lcb
+    report_format_file: DEFAULT.lsr
+    date_acquired: 8/26/2025 10:08:13 PM
+    date_processed: 8/27/2025 10:59:22 AM
+    title: AS AL 1498 A 02.lcd
+    sample_name: Ketorolac
+    sample_id_ind: AL 1498 A
+    ret_time: 10.417
+    area: 1962558.0
+    tailing_factor: 1.955
+    theoretical_plate: 1564.0
+
+[2025-12-23 13:05:16] Inserted Row (single):
+    machine_id: 
+    u_id: fgs
+    user_id: 4444
+    test_code: 10013
+    acquired_by: Md. Golam Mostafa
+    sample_name_header: Ketorolac
+    sample_id: AS_AL_1498_A_01
+    tray: 1
+    vial: 4
+    injection_volume: 100.0
+    data_file: AS_AL_1498_A_01.lcd
+    method_file: PRM_Ketorolac Tromethamine AS.lcm
+    batch_file: PRB_AS_Ketorolac Tromethamine.lcb
+    report_format_file: DEFAULT.lsr
+    date_acquired: 8/26/2025 10:08:13 PM
+    date_processed: 8/27/2025 10:59:22 AM
+    title: AS AL 1498 A 01.lcd
+    sample_name: Ketorolac
+    sample_id_ind: AL 1498 A
+    ret_time: 10.437
+    area: 1964221.0
+    tailing_factor: 1.94
+    theoretical_plate: 1547.0
+
+[2025-12-23 13:05:16] Inserted Row (single):
+    machine_id: 
+    u_id: fgs
+    user_id: 4444
+    test_code: 10013
+    acquired_by: Md. Golam Mostafa
+    sample_name_header: Ketorolac
+    sample_id: AS_AL_1498_A_01
+    tray: 1
+    vial: 4
+    injection_volume: 100.0
+    data_file: AS_AL_1498_A_01.lcd
+    method_file: PRM_Ketorolac Tromethamine AS.lcm
+    batch_file: PRB_AS_Ketorolac Tromethamine.lcb
+    report_format_file: DEFAULT.lsr
+    date_acquired: 8/26/2025 10:08:13 PM
+    date_processed: 8/27/2025 10:59:22 AM
+    title: Average
+    sample_name: None
+    sample_id_ind: None
+    ret_time: 10.427
+    area: 1963390.0
+    tailing_factor: 1.947
+    theoretical_plate: 1555.0
+
+[2025-12-23 13:05:16] Inserted Row (single):
+    machine_id: 
+    u_id: fgs
+    user_id: 4444
+    test_code: 10013
+    acquired_by: Md. Golam Mostafa
+    sample_name_header: Ketorolac
+    sample_id: AS_AL_1498_A_01
+    tray: 1
+    vial: 4
+    injection_volume: 100.0
+    data_file: AS_AL_1498_A_01.lcd
+    method_file: PRM_Ketorolac Tromethamine AS.lcm
+    batch_file: PRB_AS_Ketorolac Tromethamine.lcb
+    report_format_file: DEFAULT.lsr
+    date_acquired: 8/26/2025 10:08:13 PM
+    date_processed: 8/27/2025 10:59:22 AM
+    title: %RSD
+    sample_name: None
+    sample_id_ind: None
+    ret_time: 0.135
+    area: 0.06
+    tailing_factor: 0.539
+    theoretical_plate: 0.746
+
+[2025-12-23 13:05:16] Inserted Row (single):
+    machine_id: 
+    u_id: fgs
+    user_id: 4444
+    test_code: 10013
+    acquired_by: Md. Golam Mostafa
+    sample_name_header: Ketorolac
+    sample_id: AS_AL_1498_A_01
+    tray: 1
+    vial: 4
+    injection_volume: 100.0
+    data_file: AS_AL_1498_A_01.lcd
+    method_file: PRM_Ketorolac Tromethamine AS.lcm
+    batch_file: PRB_AS_Ketorolac Tromethamine.lcb
+    report_format_file: DEFAULT.lsr
+    date_acquired: 8/26/2025 10:08:13 PM
+    date_processed: 8/27/2025 10:59:22 AM
+    title: Standard Deviation
+    sample_name: None
+    sample_id_ind: None
+    ret_time: 0.014
+    area: 1176.0
+    tailing_factor: 0.01
+    theoretical_plate: 12.0
+

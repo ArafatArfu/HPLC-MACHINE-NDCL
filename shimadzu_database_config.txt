@@ -1,0 +1,5 @@
+192.168.10.102
+3306
+root
+Intel#1234
+machinedb

@@ -1,0 +1,147 @@
+[2025-12-21 01:05:26] Component count changed to: 2
+[2025-12-21 01:05:33] Component count changed to: 1
+[2025-12-21 01:05:35] Stage changed to: S2 (6 rows)
+[2025-12-21 01:05:36] Stage changed to: S3 (12 rows)
+[2025-12-21 01:05:37] Stage changed to: S1 (6 rows)
+[2025-12-21 01:05:39] Stage changed to: S3 (12 rows)
+[2025-12-21 01:05:41] Stage changed to: S1 (6 rows)
+[2025-12-21 01:14:29] Mode changed to: multiple
+[2025-12-21 01:15:32] Processed dissolution PDF: DS_INN_426_A01.pdf
+[2025-12-21 01:20:01] Processed dissolution PDF: DS_INN_426_A01.pdf
+[2025-12-21 01:20:38] Added 6 samples for Stage S1, Component 1
+[2025-12-21 01:20:51] Calculated dissolution for Stage S1
+[2025-12-21 01:21:08] Dissolution data cleared
+[2025-12-21 01:21:11] Processed dissolution PDF: DS_INN_426_A01.pdf
+[2025-12-21 20:22:20] File dialog returned: ('C:/Users/arafat/Downloads/DATA/SHIMADZU-HPLC.pdf',)
+[2025-12-21 20:22:20] PyMuPDF version: PyMuPDF 1.26.6: Python bindings for the MuPDF 1.26.11 library (rebased implementation).
+Python 3.14 running on win32 (64-bit).
+
+[2025-12-21 20:22:20] About to open: C:/Users/arafat/Downloads/DATA/SHIMADZU-HPLC.pdf
+[2025-12-21 20:22:20] Read 273079 bytes from SHIMADZU-HPLC.pdf
+[2025-12-21 20:22:20] Extracted 91 lines from SHIMADZU-HPLC.pdf
+[2025-12-21 20:22:20] Inserted Row (single):
+    machine_id: 
+    u_id: rere
+    user_id: 33333
+    test_code: 10013
+    acquired_by: Md. Golam Mostafa
+    sample_name_header: Ketorolac
+    sample_id: AS_AL_1498_A_01
+    tray: 1
+    vial: 4
+    injection_volume: 100.0
+    data_file: AS_AL_1498_A_01.lcd
+    method_file: PRM_Ketorolac Tromethamine AS.lcm
+    batch_file: PRB_AS_Ketorolac Tromethamine.lcb
+    report_format_file: DEFAULT.lsr
+    date_acquired: 8/26/2025 10:08:13 PM
+    date_processed: 8/27/2025 10:59:22 AM
+    title: AS AL 1498 A 02.lcd
+    sample_name: Ketorolac
+    sample_id_ind: AL 1498 A
+    ret_time: 10.417
+    area: 1962558.0
+    tailing_factor: 1.955
+    theoretical_plate: 1564.0
+
+[2025-12-21 20:22:20] Inserted Row (single):
+    machine_id: 
+    u_id: rere
+    user_id: 33333
+    test_code: 10013
+    acquired_by: Md. Golam Mostafa
+    sample_name_header: Ketorolac
+    sample_id: AS_AL_1498_A_01
+    tray: 1
+    vial: 4
+    injection_volume: 100.0
+    data_file: AS_AL_1498_A_01.lcd
+    method_file: PRM_Ketorolac Tromethamine AS.lcm
+    batch_file: PRB_AS_Ketorolac Tromethamine.lcb
+    report_format_file: DEFAULT.lsr
+    date_acquired: 8/26/2025 10:08:13 PM
+    date_processed: 8/27/2025 10:59:22 AM
+    title: AS AL 1498 A 01.lcd
+    sample_name: Ketorolac
+    sample_id_ind: AL 1498 A
+    ret_time: 10.437
+    area: 1964221.0
+    tailing_factor: 1.94
+    theoretical_plate: 1547.0
+
+[2025-12-21 20:22:20] Inserted Row (single):
+    machine_id: 
+    u_id: rere
+    user_id: 33333
+    test_code: 10013
+    acquired_by: Md. Golam Mostafa
+    sample_name_header: Ketorolac
+    sample_id: AS_AL_1498_A_01
+    tray: 1
+    vial: 4
+    injection_volume: 100.0
+    data_file: AS_AL_1498_A_01.lcd
+    method_file: PRM_Ketorolac Tromethamine AS.lcm
+    batch_file: PRB_AS_Ketorolac Tromethamine.lcb
+    report_format_file: DEFAULT.lsr
+    date_acquired: 8/26/2025 10:08:13 PM
+    date_processed: 8/27/2025 10:59:22 AM
+    title: Average
+    sample_name: None
+    sample_id_ind: None
+    ret_time: 10.427
+    area: 1963390.0
+    tailing_factor: 1.947
+    theoretical_plate: 1555.0
+
+[2025-12-21 20:22:20] Inserted Row (single):
+    machine_id: 
+    u_id: rere
+    user_id: 33333
+    test_code: 10013
+    acquired_by: Md. Golam Mostafa
+    sample_name_header: Ketorolac
+    sample_id: AS_AL_1498_A_01
+    tray: 1
+    vial: 4
+    injection_volume: 100.0
+    data_file: AS_AL_1498_A_01.lcd
+    method_file: PRM_Ketorolac Tromethamine AS.lcm
+    batch_file: PRB_AS_Ketorolac Tromethamine.lcb
+    report_format_file: DEFAULT.lsr
+    date_acquired: 8/26/2025 10:08:13 PM
+    date_processed: 8/27/2025 10:59:22 AM
+    title: %RSD
+    sample_name: None
+    sample_id_ind: None
+    ret_time: 0.135
+    area: 0.06
+    tailing_factor: 0.539
+    theoretical_plate: 0.746
+
+[2025-12-21 20:22:20] Inserted Row (single):
+    machine_id: 
+    u_id: rere
+    user_id: 33333
+    test_code: 10013
+    acquired_by: Md. Golam Mostafa
+    sample_name_header: Ketorolac
+    sample_id: AS_AL_1498_A_01
+    tray: 1
+    vial: 4
+    injection_volume: 100.0
+    data_file: AS_AL_1498_A_01.lcd
+    method_file: PRM_Ketorolac Tromethamine AS.lcm
+    batch_file: PRB_AS_Ketorolac Tromethamine.lcb
+    report_format_file: DEFAULT.lsr
+    date_acquired: 8/26/2025 10:08:13 PM
+    date_processed: 8/27/2025 10:59:22 AM
+    title: Standard Deviation
+    sample_name: None
+    sample_id_ind: None
+    ret_time: 0.014
+    area: 1176.0
+    tailing_factor: 0.01
+    theoretical_plate: 12.0
+
+[2025-12-21 20:22:20] Inserted 5 rows into shimadzu_lc2050_results.

@@ -1,0 +1,200 @@
+[2026-01-08 01:15:11] Inserted Row (single):
+    machine_id: 
+    u_id: ree
+    user_id: 2323
+    test_code: 10013
+    acquired_by: Abdul Karim
+    sample_name_header: Imidafenacin INN
+    sample_id: DS_SS_Std_01
+    tray: 1
+    vial: 13
+    injection_volume: 100.0
+    data_file: DS_SS_Std_01.lcd
+    method_file: PRM_Imidafenacin INN DS.lcm
+    batch_file: PRB_Imidafenacin.lcb
+    report_format_file: DEFAULT.lsr
+    date_acquired: 19-Oct-25 6:33:08 PM
+    date_processed: 19-Oct-25 8:58:45 PM
+    title: DS SS Std 01.lcd
+    sample_name: Imidafenacin INN
+    sample_id_ind: DS SS Std 01
+    ret_time: 7.021
+    area: 79085.0
+    tailing_factor: 1.034
+    theoretical_plate: 3006.0
+
+[2026-01-08 01:15:11] Inserted Row (single):
+    machine_id: 
+    u_id: ree
+    user_id: 2323
+    test_code: 10013
+    acquired_by: Abdul Karim
+    sample_name_header: Imidafenacin INN
+    sample_id: DS_SS_Std_01
+    tray: 1
+    vial: 13
+    injection_volume: 100.0
+    data_file: DS_SS_Std_01.lcd
+    method_file: PRM_Imidafenacin INN DS.lcm
+    batch_file: PRB_Imidafenacin.lcb
+    report_format_file: DEFAULT.lsr
+    date_acquired: 19-Oct-25 6:33:08 PM
+    date_processed: 19-Oct-25 8:58:45 PM
+    title: DS SS Std 02.lcd
+    sample_name: Imidafenacin INN001
+    sample_id_ind: DS SS Std 02
+    ret_time: 7.013
+    area: 78921.0
+    tailing_factor: 1.037
+    theoretical_plate: 2950.0
+
+[2026-01-08 01:15:11] Inserted Row (single):
+    machine_id: 
+    u_id: ree
+    user_id: 2323
+    test_code: 10013
+    acquired_by: Abdul Karim
+    sample_name_header: Imidafenacin INN
+    sample_id: DS_SS_Std_01
+    tray: 1
+    vial: 13
+    injection_volume: 100.0
+    data_file: DS_SS_Std_01.lcd
+    method_file: PRM_Imidafenacin INN DS.lcm
+    batch_file: PRB_Imidafenacin.lcb
+    report_format_file: DEFAULT.lsr
+    date_acquired: 19-Oct-25 6:33:08 PM
+    date_processed: 19-Oct-25 8:58:45 PM
+    title: DS SS Std 03.lcd
+    sample_name: Imidafenacin INN002
+    sample_id_ind: DS SS Std 03
+    ret_time: 7.007
+    area: 79246.0
+    tailing_factor: 1.039
+    theoretical_plate: 2895.0
+
+[2026-01-08 01:15:11] Inserted Row (single):
+    machine_id: 
+    u_id: ree
+    user_id: 2323
+    test_code: 10013
+    acquired_by: Abdul Karim
+    sample_name_header: Imidafenacin INN
+    sample_id: DS_SS_Std_01
+    tray: 1
+    vial: 13
+    injection_volume: 100.0
+    data_file: DS_SS_Std_01.lcd
+    method_file: PRM_Imidafenacin INN DS.lcm
+    batch_file: PRB_Imidafenacin.lcb
+    report_format_file: DEFAULT.lsr
+    date_acquired: 19-Oct-25 6:33:08 PM
+    date_processed: 19-Oct-25 8:58:45 PM
+    title: DS SS Std 04.lcd
+    sample_name: Imidafenacin INN003
+    sample_id_ind: DS SS Std 04
+    ret_time: 7.003
+    area: 79259.0
+    tailing_factor: 1.04
+    theoretical_plate: 2868.0
+
+[2026-01-08 01:15:11] Inserted Row (single):
+    machine_id: 
+    u_id: ree
+    user_id: 2323
+    test_code: 10013
+    acquired_by: Abdul Karim
+    sample_name_header: Imidafenacin INN
+    sample_id: DS_SS_Std_01
+    tray: 1
+    vial: 13
+    injection_volume: 100.0
+    data_file: DS_SS_Std_01.lcd
+    method_file: PRM_Imidafenacin INN DS.lcm
+    batch_file: PRB_Imidafenacin.lcb
+    report_format_file: DEFAULT.lsr
+    date_acquired: 19-Oct-25 6:33:08 PM
+    date_processed: 19-Oct-25 8:58:45 PM
+    title: DS SS Std 05.lcd
+    sample_name: Imidafenacin INN004
+    sample_id_ind: DS SS Std 05
+    ret_time: 6.997
+    area: 79238.0
+    tailing_factor: 1.045
+    theoretical_plate: 2834.0
+
+[2026-01-08 01:15:11] Inserted Row (single):
+    machine_id: 
+    u_id: ree
+    user_id: 2323
+    test_code: 10013
+    acquired_by: Abdul Karim
+    sample_name_header: Imidafenacin INN
+    sample_id: DS_SS_Std_01
+    tray: 1
+    vial: 13
+    injection_volume: 100.0
+    data_file: DS_SS_Std_01.lcd
+    method_file: PRM_Imidafenacin INN DS.lcm
+    batch_file: PRB_Imidafenacin.lcb
+    report_format_file: DEFAULT.lsr
+    date_acquired: 19-Oct-25 6:33:08 PM
+    date_processed: 19-Oct-25 8:58:45 PM
+    title: Average
+    sample_name: None
+    sample_id_ind: None
+    ret_time: 7.008
+    area: 79150.0
+    tailing_factor: 1.039
+    theoretical_plate: 2911.0
+
+[2026-01-08 01:15:11] Inserted Row (single):
+    machine_id: 
+    u_id: ree
+    user_id: 2323
+    test_code: 10013
+    acquired_by: Abdul Karim
+    sample_name_header: Imidafenacin INN
+    sample_id: DS_SS_Std_01
+    tray: 1
+    vial: 13
+    injection_volume: 100.0
+    data_file: DS_SS_Std_01.lcd
+    method_file: PRM_Imidafenacin INN DS.lcm
+    batch_file: PRB_Imidafenacin.lcb
+    report_format_file: DEFAULT.lsr
+    date_acquired: 19-Oct-25 6:33:08 PM
+    date_processed: 19-Oct-25 8:58:45 PM
+    title: %RSD
+    sample_name: None
+    sample_id_ind: None
+    ret_time: 0.132
+    area: 0.185
+    tailing_factor: 0.39
+    theoretical_plate: 2.349
+
+[2026-01-08 01:15:11] Inserted Row (single):
+    machine_id: 
+    u_id: ree
+    user_id: 2323
+    test_code: 10013
+    acquired_by: Abdul Karim
+    sample_name_header: Imidafenacin INN
+    sample_id: DS_SS_Std_01
+    tray: 1
+    vial: 13
+    injection_volume: 100.0
+    data_file: DS_SS_Std_01.lcd
+    method_file: PRM_Imidafenacin INN DS.lcm
+    batch_file: PRB_Imidafenacin.lcb
+    report_format_file: DEFAULT.lsr
+    date_acquired: 19-Oct-25 6:33:08 PM
+    date_processed: 19-Oct-25 8:58:45 PM
+    title: Standard Deviation
+    sample_name: None
+    sample_id_ind: None
+    ret_time: 0.009
+    area: 146.0
+    tailing_factor: 0.004
+    theoretical_plate: 68.0
+
